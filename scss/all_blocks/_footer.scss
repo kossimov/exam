@@ -1,0 +1,47 @@
+.footer {
+
+    &_right {
+    }
+
+    &_icons-logo {
+    }
+
+    &__container {
+        background-color:  #333A44;;
+    }
+
+    &__wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 35px 0;
+    }
+
+    &__left {
+        display: flex;
+        align-items: center;
+    }
+
+    &__logo-link {
+        margin-right: 58px;
+    }
+
+    &__img {
+    }
+}
+.container {
+}
+.header {
+
+    &__right-wrapper {
+    }
+
+    &__right-list {
+    }
+
+    &__right-item {
+    }
+
+    &__item-link {
+    }
+}

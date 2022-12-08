@@ -1,0 +1,41 @@
+.reklama {
+
+    &__container {
+        background-image: url(./../img/footer_bgi.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: right;
+
+    }
+
+    &__wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 102px 0;
+    }
+
+    &__left {
+    }
+
+    &__left-heading {
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 48px;
+        letter-spacing: -2.14286px;
+        color: #FFFFFF;
+        max-width: 415px;
+    }
+
+    &_right {
+    }
+    
+    &_img {
+    }
+    
+    
+}
+.container {
+}

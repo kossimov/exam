@@ -1,0 +1,50 @@
+.scooter {
+    margin-bottom: 147px;
+
+    &__container {
+    }
+
+    &__wrapper {
+        padding-top: 160px;
+        
+    }
+
+    &__list {
+        display: flex;
+        align-items: center;
+    }
+
+    &__item {
+        max-width: 350px;
+        margin-right: 30px;
+    }
+
+    &__img {
+        margin-bottom: 40px;
+    }
+
+    &__heading {
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+        letter-spacing: -1.07143px;
+        color: #495567;
+        margin-bottom: 27px;
+    }
+
+    &__text {
+        font-family: 'Lexend Deca';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        color: #939CAA;
+    }
+}
+.container {
+}
+
+
+

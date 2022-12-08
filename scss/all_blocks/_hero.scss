@@ -1,0 +1,51 @@
+.first {
+
+    &__container {
+        background-image: url(./../img/hero__bgi.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: right;
+    }
+
+    &__wrapper {
+        padding: 153px 0 153px 0;
+    }
+
+    &__heading {
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 56px;
+        letter-spacing: -2.5px;
+        color: #FFF;
+        max-width: 500px;
+        margin-bottom: 40px;
+    }
+
+    &__bottom {
+        padding-left: 95px;
+    }
+
+    &__text {
+        font-family: 'Lexend Deca';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        color: #FFFFFF;
+        max-width: 405px;
+        margin-bottom: 40px;
+    }
+
+    &__btn {
+    }
+
+    &__link {
+    }
+}
+.container {
+}
+.button {
+}
+
